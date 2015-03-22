@@ -1,7 +1,6 @@
-# rwdgrid
-Responsive Grid System for your Next Project
+# rwdgrid - Responsive Grid System for your Next Project
 
-www.rwdgrid.com
+www.rwdgrid.com </br>
 www.rwdgrid.com/demo
 
 rwdgrid is just another Grid system based on popular 960grid, which is responsive and ranges from mobile, tablet, laptops and 
