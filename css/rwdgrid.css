@@ -44,10 +44,7 @@ Github URI: https://github.com/gsvineeth/rwdgrid/
     clear:both;
     float:inherit;
 }
-.container {
-    margin:0%;
-    width: 100%;
-}
+
 .container:after, .container:before {
     display: table;
     clear:both;
